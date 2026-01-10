@@ -1,5 +1,3 @@
-##Welcome to My GitHub Page
-######This is where you find stuff about me & my projects lol
-######For now it'll be a wip and it probably will for a long time
-
-#BIG TEXT
+<h1>Welcome to my Github Page lol</h1>
+<p>This website is where i'll put my creations and my about me when something happens</p>
+<p>So I guess for now just look at this outdated text n stuff
