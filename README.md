@@ -1,5 +1,3 @@
-# Home
-
 This is the homepage for my website.
 
 [Visit Site](https://example.com)
