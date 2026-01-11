@@ -1,6 +1,6 @@
-# My Project
+# Home
 
-This is my project description. Check out my **website** below:
+This is the homepage for my website.
 
 [Visit Site](https://example.com)
 
