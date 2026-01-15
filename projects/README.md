@@ -1,3 +1,13 @@
 #### [Home](https://silnor.github.io) - Projects - [Contact Me](https://silnor.github.io/contact-me)
 
-my projects will go here lwk
+I work on a lot of projects, usually at the same time. All of my code is public and can be found on my [GitHub page](https://github.com/silnor), so feel free to contribute!
+
+## Current Project:
+### HTML Challenge - *Does a limit on your tools actually unlock your best ideas?*
+The general theory of how having little or limited tools to create your ideas have always existed. Those cavemen way back when couldn't make a whole modern-day supercomputer, of course! They had limitations, especially with their tools, which could only create basic inventions, like for example, *fire* or the *wheel*.
+
+**But what if we took that thinking into the modern day? What if we took these past limitations and applied it to modern-day thinking?**
+
+*"But Silnor, I bet someone has done that already!!"* Yeah probably, but im talking about a **full blown game.** Not some "choose your own adventure (which really, is kinda all you can do), I mean real graphics, with a ASCII-themed world, custom images, and utilizing *every* part of available HTML! With full-on lore and possibly even a wiki (ikr, crazy). And duh, this is a **horrible** first project, so I first want to create a simple, limited demo just to test the waters. If it sucks, it will be fixed. If a mistake is made, it will be fixed. It's not going to be a lazy plot with a bunch of holes in it and a bunch of bugs purely because i'm lazy and doing it for a quick buck. In fact, I can't (and won't) even do it for a quick buck. I'm doing it for the love of the game!.
+
+Im pretty sure it will be like the oregon trail, like the text only version, except with some animations, as i've always had an interest with text-based games, especially text-only games, as I get to make the graphics myself and not be limited to what the developers think the game should look. And of course, some games do require certain ways of how things should look in their game, and that makes complete sense. I want my games to have creative freedom, and bring back more creative thinking to my brain, as with all this AI and everything now, you never make anything for yourself now, you just have someone else do it with minimal instructions.
