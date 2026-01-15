@@ -1,4 +1,4 @@
-#### [Home](https://silnor.github.io) - Projects - [Contact Me](https://silnor.github.io/contact-me)
+[Home](https://silnor.github.io) - Projects - [Contact Me](https://silnor.github.io/contact-me)
 
 I work on a lot of projects, usually at the same time. All of my code is public and can be found on my [GitHub page](https://github.com/silnor), so feel free to contribute!
 
