@@ -1,3 +1,5 @@
+[Home](https://silnor.github.io) - [Projects](https://silnor.github.io/projects) - [Contact Me](https://silnor.github.io/contact-me) - HTML Challenge
+
 ### HTML Challenge - *Does a limit on your tools actually unlock your best ideas?*
 The general theory of how having little or limited tools to create your ideas have always existed. Those cavemen way back when couldn't make a whole modern-day supercomputer, of course! They had limitations, especially with their tools, which could only create basic inventions, like for example, *fire* or the *wheel*.
 
