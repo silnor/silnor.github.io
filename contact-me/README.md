@@ -1,3 +1,5 @@
 [Home](https://silnor.github.io) - [Projects](https://silnor.github.io/projects) - Contact Me
 
-Taking my time on this section for now. I don't want to worry about email or contact problems later.
+Direct Contact<br>Email: WIP<br>X: <a href="https://x.com/silnor_" target="_blank">@silnor_</a>
+
+Socials<br>X: <a href="https://x.com/silnor_" target="_blank">@silnor_</a><br>Bluesky:<a href="https://bsky.app/profile/silnor.bsky.social" target="_blank">@silnor</a>
