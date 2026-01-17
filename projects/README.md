@@ -5,5 +5,3 @@ I work on a lot of projects, usually at the same time. All of my code is public 
 ## Current Project:
 ### HTML Challenge - *Does a limit on your tools actually unlock your best ideas?*
 [Read More](https://silnor.github.io/projects/html-challenge) - ~~Play~~
-
-<a href="https://example.com" target="_blank">Open in new tab</a>
