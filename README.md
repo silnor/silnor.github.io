@@ -8,7 +8,7 @@ I’m a student interested in web development and technology. *I enjoy learning 
 
 ---
 
-###  About Me
+###  About Me 📖
 
 **I like creating simple, organized websites and learning how things work behind the scenes.** I’m focused on building a strong foundation, improving over time, and understanding how real-world websites are designed and maintained.
 
@@ -16,22 +16,22 @@ I’m a student interested in web development and technology. *I enjoy learning 
 
 ---
 
-### What I’m Working Toward
+### What I’m Working Toward 👟
 
 I’m interested in gaining experience in web development and related technology fields. **I enjoy hands-on learning, problem-solving, and figuring out how to turn ideas into something usable.**
 
 ---
 
-### About This Website
+### About This Website 🖥️
 
 Here you’ll find:
-* A Projects section where I’ll share things I build
-* A Contact page if you’d like to reach out
+* A **Projects** section where I’ll share things I build!
+* A **"Contact Me"** page if you’d like to reach out.
 
 *I plan to continue updating this site as I learn more, take on new challenges, and have more projects to showcase.*
 
 ---
 
-### Get in Touch
+### Get in Touch 💬
 
 If you want to contact me or check out what I’m working on, head over to the **"Contact Me"** page.
