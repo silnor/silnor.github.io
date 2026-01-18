@@ -1,4 +1,4 @@
-[Home](https://silnor.github.io) - [Projects](https://silnor.github.io/projects) - [Contact Me](https://silnor.github.io/contact-me) - HTML Challenge
+[Home](https://silnor.github.io) - [Projects](https://silnor.github.io/projects) - [Contact Me](https://silnor.github.io/contact-me) - Website Templates
 
 ---
 
