@@ -4,6 +4,12 @@
 
 I work on a lot of projects, usually at the same time. All of my code is public and can be found on my [GitHub page](https://silnor.github.io), so feel free to contribute!
 
-## Current Project:
+# Current Project(s):
 ### HTML Challenge - *Does a limit on your tools actually unlock your best ideas?*
-[Read More](https://silnor.github.io/projects/html-challenge) - ~~Play~~
+[Read More](https://silnor.github.io/projects/html-challenge) - ~~Open~~
+
+### Website Templates - *Everyone deserves a head start on their website*
+[Read More](https://silnor.github.io/projects/website-templates)
+
+# Other Projects:
+Nothing to see here, yet...
