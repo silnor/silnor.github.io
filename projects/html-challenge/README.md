@@ -1,5 +1,7 @@
 [Home](https://silnor.github.io) - [Projects](https://silnor.github.io/projects) - [Contact Me](https://silnor.github.io/contact-me) - HTML Challenge
 
+---
+
 ### HTML Challenge - *Does a limit on your tools actually unlock your best ideas?*
 **Project Time:** 1/16/26 -<br>**Status:** Pre-production<br>~~Play~~
 
