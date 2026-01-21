@@ -3,7 +3,7 @@
 ---
 
 ### Website Templates - *Everyone deserves a head start on their website.*
-**Project Time:** 1/17/26 -<br>**Status:** Pre-production<br>~~Open~~
+**Project Time:** 1/17/26 -<br>**Status:** Concept<br>~~Open~~
 
 ---
 
