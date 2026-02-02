@@ -2,10 +2,6 @@
 
 ---
 
-Need to contact me? The best way to do so is either through emailing me or on X.
+Need to contact me? Currently, the best way to do so is through X.
 
-**Direct Contact**<br>Email: WIP<br>X: <a href="https://x.com/silnor_" target="_blank">@silnor_</a>
-
-**Socials**<br>X: <a href="https://x.com/silnor_" target="_blank">@silnor_</a><br>Bluesky:<a href="https://bsky.app/profile/silnor.bsky.social" target="_blank">@silnor.bsky.social</a>
-
-**Github**<br>Github: <a href="https://github.com/silnor" target="_blank">@silnor</a>
+**Email:** WIP<br>**X:** <a href="https://x.com/silnor_" target="_blank">@silnor_</a><br>**Github:** <a href="https://github.com/silnor" target="_blank">@silnor</a>
