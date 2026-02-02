@@ -8,8 +8,5 @@ I work on a lot of projects, usually at the same time. All of my code is public 
 ### HTML Challenge - *Does a limit on your tools actually unlock your best ideas?*
 [Read More](https://silnor.github.io/projects/html-challenge) - ~~Open~~
 
-### Website Templates - *Everyone deserves a head start on their website.*
-[Read More](https://silnor.github.io/projects/website-templates) - ~~Open~~
-
 # Other Projects:
 Nothing to see here, yet...
