@@ -2,6 +2,8 @@
 
 ---
 
-Need to contact me? Currently, the best way to do so is through X.
+Need to contact me?
+*Casual Reasons (saying hi, etc.):* X
+*Professional Reasons (job offers, etc.):* Email
 
-**Email:** WIP<br>**X:** <a href="https://x.com/silnor_" target="_blank">@silnor_</a><br>**Github:** <a href="https://github.com/silnor" target="_blank">@silnor</a>
+**Email:** silnor.dev@outlook.com<br>**X:** <a href="https://x.com/silnor_" target="_blank">@silnor_</a><br> <br>**Github:** <a href="https://github.com/silnor" target="_blank">@silnor</a>
