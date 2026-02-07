@@ -6,9 +6,9 @@
 ### HTML Challenge - *Does a limit on your tools actually unlock your best ideas?*
 [Read More](https://silnor.github.io/projects/html-challenge) - ~~Open~~
 
-# Other Projects:
+# My Projects:
 Nothing to see here, yet...
 
 ---
 
-*All of my code is public and can be found on my [GitHub page](https://silnor.github.io), so feel free to contribute!*
+*All of my code is public and can be found on my <a href="https://github.com/silnor" target="_blank"> GitHub page</a>, so feel free to contribute!*
