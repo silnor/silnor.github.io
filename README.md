@@ -8,4 +8,4 @@ For now, the homepage is blank. You're free to check out the other parts of the 
 
 ---
 
-[The stages of Project Development](https://silnor.github.io/the-stages-of-project-development)
+~~[The stages of Project Development](https://silnor.github.io/the-stages-of-project-development)~~
