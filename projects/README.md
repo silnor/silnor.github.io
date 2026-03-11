@@ -2,8 +2,5 @@
 
 ---
 
-# Current Project(s):
-Nothing to see here, yet...
-
 # My Projects:
 Nothing to see here, yet...
