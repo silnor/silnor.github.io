@@ -3,4 +3,6 @@
 ---
 
 # My Projects:
-Nothing to see here, yet...
+
+### Silnote
+No ads, no trackers, open-source.<br>[Read More](https://silnor.github.io/projects/about/silnote) - ~~Open~~
